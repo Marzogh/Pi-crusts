@@ -1,25 +1,25 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /Users/uqmbhat1/Dropbox/Genesis share/Eagle/Projects/Raspberry Pi boards/PiPowerRF/PiPowerRF.brd
+Job           : /Users/uqmbhat1/GitHub repositories/Pi-crusts/PiPowerRF/PCB design files/PiPowerRF.brd
 
-Start at      : 16:46:55 (15/03/2016)
-End at        : 16:47:07 (15/03/2016)
-Elapsed time  : 00:00:12
+Start at      : 16:40:45 (16/03/2016)
+End at        : 16:40:51 (16/03/2016)
+Elapsed time  : 00:00:06
 
 Signals       :    44   RoutingGrid: 3 mil  Layers: 2
-Connections   :   105   predefined:  103 ( 32 Vias )
+Connections   :   105   predefined:  105 ( 35 Vias )
 
 Router memory :   1552224
 
 Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4 Optimize5 Optimize6 Optimize7 Optimize8
 
-Time per pass     :  00:00:09  00:00:00  00:00:01  00:00:00  00:00:00  00:00:01  00:00:00  00:00:00  00:00:00  00:00:01
+Time per pass     :  00:00:05  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00  00:00:01  00:00:00
 Number of Ripups  :         0         0         0         0         0         0         0         0         0         0
 max. Level        :         0         0         0         0         0         0         0         0         0         0
 max. Total        :         0         0         0         0         0         0         0         0         0         0
 
-Routed            :         0         2         2         2         2         2         2         2         2         2
-Vias              :         0         3         3         3         3         3         3         3         3         3
-Resolution        :    98.1 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :         0         0         0         0         0         0         0         0         0         0
+Vias              :         0         0         0         0         0         0         0         0         0         0
+Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
