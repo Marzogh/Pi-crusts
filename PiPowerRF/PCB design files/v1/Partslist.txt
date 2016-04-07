@@ -1,0 +1,39 @@
+Partlist
+
+Exported from PiPowerRF.sch at 16/03/2016 9:09 AM
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part            Value                 Device                  Package                 Library               Sheet
+
+ATMEGA328       ATMega-328            ATMEGA168/328TQFP32     TQFP32-08               LowPowerLab           1
+C1              0.1                   CAP0603-CAP             0603-CAP                LowPowerLab           1
+C2              1u                    CAP0603-CAP             0603-CAP                LowPowerLab           1
+C3              10u                   CAP0805-CAP             0805-CAP                LowPowerLab           1
+C4              0.1                   CAP0603-CAP             0603-CAP                LowPowerLab           1
+C5              0.1                   CAP0603-CAP             0603-CAP                LowPowerLab           1
+C6              47pF                  CAP0402-CAP             0402-CAP                SparkFun-Capacitors   1
+FTDI            FTDI                  M06SIP                  1X06                    SparkFun-Connectors   1
+IC3             MCP1703CB             MCP1703CB               SOT23                   linear                1
+J1              AVR_SPI_PRG_6PTH      AVR_SPI_PRG_6PTH        2X3                     SparkFun-Connectors   1
+Q1              MMBT2222A             TRANSISTOR_NPNMMBT2222A SOT23-3                 SparkFun-DiscreteSemi 1
+R1              10k                   RESISTOR0603-RES        0603-RES                LowPowerLab           1
+R2              1k5                   RESISTOR0603-RES        0603-RES                LowPowerLab           1
+R3               220R                 EXB38V221JV             RESCAXE80P320X160X60-8N Panasonic-EXB-ERJ     1
+R4              100                   RESISTOR0402-RES        0402-RES                SparkFun-Passives     1
+R5              10K                   RESISTOR0603            0603-RES                SparkFun-Resistors    1
+R6              10K                   RESISTOR0603            0603-RES                SparkFun-Resistors    1
+RFM12B          RFM12B_MINPADS        RFM12B_MINPADS          RFM12B-MINPADS          LowPowerLab           1
+RUN                                   M021X02_NO_SILK         1X02_NO_SILK            SparkFun-Connectors   1
+SW1             SPST_TACT-KMR2        SPST_TACT-KMR2          KMR2                    adafruit              1
+U$1             RFM12B_ANTENNA        RFM12B_ANTENNA          RFM12B-ANTENNA          LowPowerLab           1
+U$2             LED0603               LED0603                 0603-LED                LowPowerLab           1
+U$4             PIZERO_THROUGH_HOLE   PIZERO_THROUGH_HOLE     PIZERO_THOUGH_HOLE      pizero                1
+U$5             RFM69                 RFM69                   RFM69W-MINPADS          LowPowerLab           1
+U$6                                   CR1220SMT               CR1220-SMD              adafruit              1
+W25X40CLSNIG-ND AT25F512BWIDE_5.3MM   AT25F512BWIDE_5.3MM     SO08WIDE                LowPowerLab           1
+X1              16 MHz                RESONATORSMD            RESONATOR-SMD           SparkFun              1
+X2              MC-RTC-RV-1805-C3-I2C MC-RTC-RV-1805-C3-I2C   MC-RTC-C3               Microcrystal-RTC      1
+X3              microUSB              USB_MICRO_20329_V2      4UCONN_20329_V2         microbuilder          1
